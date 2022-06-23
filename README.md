@@ -1,13 +1,12 @@
 # Ubuntu Darwin
-An OS X flavored plymouth for Linux Ubuntu.
-![Screenshot](https://raw.githubusercontent.com/ashutoshgngwr/ubuntu-darwin/master/screenshot.png "Ubuntu Darwin")
+An BatBoy flavored plymouth for Linux Ubuntu.
 
 ## Installation
 
 Add `ubuntu-darwin` to your `plymouth` themes directory.
 
-    git clone https://github.com/ashutoshgngwr/ubuntu-darwin.git
-    sudo mv ubuntu-darwin/ubuntu-darwin /usr/share/plymouth/themes/ubuntu-darwin
+    git clone https://github.com/nicholasbernstein/plymouth-theme.git
+    sudo mv plymouth-theme/ubuntu-darwin /usr/share/plymouth/themes/ubuntu-darwin
     
 Add `ubuntu-darwin` to `default.plymouth`'s alternatives
 
